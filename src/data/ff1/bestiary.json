@@ -2,16 +2,16 @@
     {
         "id": "001",
         "name": "Goblin",
-        "HP": "8",
-        "attack": "4",
-        "defense": "4",
-        "accuracy": "2",
-        "agility": "3",
-        "intellect": "1",
-        "evasion": "6",
-        "magicDefense": "16",
-        "gil": "6",
-        "exp": "6",
+        "HP": 8,
+        "attack": 4,
+        "defense": 4,
+        "accuracy": 2,
+        "agility": 3,
+        "intellect": 1,
+        "evasion": 6,
+        "magicDefense": 16,
+        "gil": 6,
+        "exp": 6,
         "items": [],
         "type": [
             "None"
@@ -25,21 +25,23 @@
         "spawnArea": [
             "World Map",
             "Chaos Shrine"
-        ]
+        ],
+        "encountered": false
     },
+
     {
         "id": "002",
         "name": "Goblin Guard",
-        "HP": "16",
-        "attack": "8",
-        "defense": "8",
-        "accuracy": "4",
-        "agility": "5",
-        "intellect": "3",
-        "evasion": "9",
-        "magicDefense": "23",
-        "gil": "18",
-        "exp": "18",
+        "HP": 16,
+        "attack": 8,
+        "defense": 8,
+        "accuracy": 4,
+        "agility": 5,
+        "intellect": 3,
+        "evasion": 9,
+        "magicDefense": 23,
+        "gil": 18,
+        "exp": 18,
         "items": [
             "Potion"
         ],
@@ -56,17 +58,19 @@
             "World Map",
             "Cavern of Earth",
             "Chaos Shrine"
-        ]
+        ],
+        "encountered": false
     },
+
     {
         "id": "003",
         "name": "Wolf",
-        "HP": "20",
-        "attack": "8",
-        "defense": "0",
-        "accuracy": "5",
-        "agility": "18",
-        "intellect": "1",
+        "HP": 20,
+        "attack": 8,
+        "defense": 0,
+        "accuracy": 5,
+        "agility": 18,
+        "intellect": 1,
         "evasion": "36",
         "magicDefense": "28",
         "gil": "6",
@@ -86,8 +90,10 @@
         "spawnArea": [
             "World Map",
             "Chaos Shrine"
-        ]
+        ],
+        "encountered": false
     },
+
     {
         "id": "004",
         "name": "Crazy Horse",
@@ -115,7 +121,8 @@
         ],
         "spawnArea": [
             "World Map"
-        ]
+        ],
+        "encountered": false
     },
 
     {
@@ -157,7 +164,8 @@
             "World Map",
             "Chaos Shrine",
             "Marsh Cave"
-        ]
+        ],
+        "encountered": false
     },
 
     {
@@ -1988,7 +1996,7 @@
         "agility": "36",
         "intellect": "15",
         "evasion": "72",
-        "magicDefense": "45",
+        "magicDefense": 45,
         "gil": "500",
         "exp": "423",
         "items": [
@@ -2050,5 +2058,5 @@
             "Mount Gulg",
             "Chaos Shrine"
         ]
-    },
+    }
 ]
