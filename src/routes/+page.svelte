@@ -1,18 +1,42 @@
 <script>
+	import { onMount } from 'svelte';
 	import '../app.css';
 	import EncounterTotal from '../components/EncounterTotal.svelte';
 	import Entry from '../components/Entry.svelte';
 	import bestiary from '../data/ff1/bestiary.json';
 	let large = '.large';
 	let small = '.small';
+	let ls = JSON.stringify(bestiary);
+	let bJson = JSON.parse(ls)
+	onMount(() => {
+		if (localStorage.getItem('entries') === null) {
+			localStorage.setItem('entries', ls);
+		} else {
+			console.log('Entries found');
+			bJson = JSON.parse(localStorage.getItem("entries"))
+		}
+	});
+
+	const handleEntryUpdate = (e) => {
+		console.log(e.detail.idx);
+		console.log(bJson[e.detail.idx])
+		bJson[e.detail.idx].encountered = !bJson[e.detail.idx].encountered
+		localStorage.setItem("entries", JSON.stringify(bJson))
+	};
 </script>
 
 <p class:large>Final Fantasy I</p>
 <p class:small>Bestiary</p>
 <EncounterTotal />
 <div>
-	{#each bestiary as entry (entry.id)}
-		<Entry monsterId={entry.id} name={entry.name} encountered={entry.encountered} />
+	{#each bJson as entry, idx (entry.id)}
+		<Entry
+			on:entryUpdate={handleEntryUpdate}
+			index={idx}
+			monsterId={entry.id}
+			name={entry.name}
+			encountered={entry.encountered}
+		/>
 	{/each}
 </div>
 

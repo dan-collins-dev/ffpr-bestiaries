@@ -1,11 +1,21 @@
 <script>
+	import {createEventDispatcher} from "svelte"
+	const dispatch = createEventDispatcher();
+
+	export let index = 0
 	export let monsterId = '000';
 	export let name = 'Monster Name';
 	export let encountered = false;
+
+	const entryUpdated = () => {
+		dispatch("entryUpdate", {
+			idx: index 
+		})
+	}
 </script>
 
 <div>
-	<input bind:checked={encountered} type="checkbox" />
+	<input on:click={entryUpdated} bind:checked={encountered} type="checkbox" />
 	<p>{monsterId}</p>
 	<p>{name}</p>
 </div>
