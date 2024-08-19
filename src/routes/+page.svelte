@@ -12,7 +12,7 @@
 		if (localStorage.getItem('entries') === null) {
 			localStorage.setItem('entries', ls);
 		} else {
-			console.log('Entries found');
+			// console.log('Entries found');
 			bJson = JSON.parse(localStorage.getItem("entries"))
 		}
 	});
