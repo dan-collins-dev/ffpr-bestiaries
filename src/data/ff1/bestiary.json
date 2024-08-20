@@ -3320,38 +3320,6 @@
     },
 
     {
-        "id": "075",
-        "name": "Evil Eye",
-        "HP": "162",
-        "attack": "30",
-        "defense": "30",
-        "accuracy": "42",
-        "agility": "6",
-        "intellect": "20",
-        "evasion": "12",
-        "magicDefense": "92",
-        "gil": "3225",
-        "exp": "3225",
-        "items": [
-            "None"
-        ],
-        "type": [
-            "Magic"
-        ],
-        "weakness": [
-            "None"
-        ],
-        "resistances": [
-            "Earth"
-        ],
-        "spawnArea": [
-            "Flying Fortress",
-            "Cavern of Ice"
-        ],
-        "encountered": false
-    },
-
-    {
         "id": "095",
         "name": "Deepeyes",
         "HP": "304",
