@@ -1,17 +1,17 @@
 <script>
-	import {createEventDispatcher} from "svelte"
+	import { createEventDispatcher } from 'svelte';
 	const dispatch = createEventDispatcher();
 
-	export let index = 0
+	export let index = 0;
 	export let monsterId = '000';
 	export let name = 'Monster Name';
 	export let encountered = false;
 
 	const entryUpdated = () => {
-		dispatch("entryUpdate", {
+		dispatch('entryUpdate', {
 			idx: index
-		})
-	}
+		});
+	};
 </script>
 
 <div>
