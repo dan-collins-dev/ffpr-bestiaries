@@ -9,7 +9,7 @@
 
 	const entryUpdated = () => {
 		dispatch("entryUpdate", {
-			idx: index 
+			idx: index
 		})
 	}
 </script>

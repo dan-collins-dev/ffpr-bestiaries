@@ -8,7 +8,9 @@
 	let small = '.small';
 	let ls = JSON.stringify(bestiary);
 	let bJson = JSON.parse(ls)
+	let encounteredMonsters = 0
 	onMount(() => {
+		console.log("Page is in onMount")
 		if (localStorage.getItem('entries') === null) {
 			localStorage.setItem('entries', ls);
 		} else {
@@ -23,6 +25,12 @@
 		bJson[e.detail.idx].encountered = !bJson[e.detail.idx].encountered
 		localStorage.setItem("entries", JSON.stringify(bJson))
 	};
+
+	const say = (e) => {
+		console.log(e.target)
+	}
+
+	
 </script>
 
 <p class:large>Final Fantasy I</p>
