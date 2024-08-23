@@ -118,4 +118,52 @@
         "locked": "false",
         "keyItem": "false"
     },
+
+    {
+        "id": "015",
+        "contents": "Mythril Hammer",
+        "location": "Elven Castle",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "016",
+        "contents": "800 Gil",
+        "location": "Elven Castle",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "017",
+        "contents": "700 Gil",
+        "location": "Elven Castle",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "018",
+        "contents": "Bronze Gloves",
+        "location": "Elven Castle",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "019",
+        "contents": "Power Staff",
+        "location": "Western Keep",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "020",
+        "contents": "Falchion",
+        "location": "Western Keep",
+        "locked": "true",
+        "keyItem": "false"
+    }
 ]
