@@ -1,7 +1,7 @@
 <script>
 	export let encounteredMonsters = 0;
 	let totalMonsters = 128;
-	$: progress = Math.floor(((encounteredMonsters / totalMonsters) * 100));
+	$: progress = Math.floor((encounteredMonsters / totalMonsters) * 100);
 </script>
 
 <section>
