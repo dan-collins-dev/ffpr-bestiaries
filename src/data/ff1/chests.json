@@ -1,0 +1,121 @@
+[
+    {
+        "id": "001",
+        "contents": "Iron Armor",
+        "location": "Castle Cornelia",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "002",
+        "contents": "Tent",
+        "location": "Castle Cornelia",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "003",
+        "contents": "Nitro Powder",
+        "location": "Castle Cornelia",
+        "locked": "true",
+        "keyItem": "true"
+    },
+
+    {
+        "id": "004",
+        "contents": "Cottage",
+        "location": "Castle Cornelia",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "004",
+        "contents": "Saber",
+        "location": "Castle Cornelia",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "005",
+        "contents": "Mythril Knife",
+        "location": "Castle Cornelia",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "006",
+        "contents": "Potion",
+        "location": "Chaos Shrine",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "007",
+        "contents": "Tent",
+        "location": "Chaos Shrine",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "008",
+        "contents": "Leather Cap",
+        "location": "Chaos Shrine",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "009",
+        "contents": "Werebuster",
+        "location": "Chaos Shrine",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "010",
+        "contents": "Gold Needle",
+        "location": "Chaos Shrine",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "011",
+        "contents": "Rune Blade",
+        "location": "Chaos Shrine",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "012",
+        "contents": "Potion",
+        "location": "Matoya's Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "013",
+        "contents": "Potion",
+        "location": "Matoya's Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "014",
+        "contents": "Antidote",
+        "location": "Matoya's Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+]
