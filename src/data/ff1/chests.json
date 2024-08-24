@@ -165,5 +165,429 @@
         "location": "Western Keep",
         "locked": "true",
         "keyItem": "false"
-    }
+    },
+
+    {
+        "id": "021",
+        "contents": "Steel Gloves",
+        "location": "Western Keep",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "022",
+        "contents": "Dagger",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "023",
+        "contents": "1120 Gil",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "024",
+        "contents": "Potion",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "025",
+        "contents": "1180 Gil",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "026",
+        "contents": "Broadsword",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "027",
+        "contents": "Potion",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "028",
+        "contents": "Potion",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "029",
+        "contents": "Phoenix Down",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "030",
+        "contents": "Potion",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "031",
+        "contents": "Cottage",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "032",
+        "contents": "Copper Armlet",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "033",
+        "contents": "1,045 Gil",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "034",
+        "contents": "Potion",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "035",
+        "contents": "Crown",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "true"
+    },
+
+    {
+        "id": "036",
+        "contents": "1,135 Gil",
+        "location": "Marsh Cave",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "037",
+        "contents": "Silver Armlet",
+        "location": "Marsh Cave",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "038",
+        "contents": "Antidote",
+        "location": "Marsh Cave",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "039",
+        "contents": "1,020 Gil",
+        "location": "Marsh Cave",
+        "locked": "true",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "040",
+        "contents": "450 Gil",
+        "location": "Mt. Duergar",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "041",
+        "contents": "575 Gil",
+        "location": "Mt. Duergar",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "042",
+        "contents": "Tent",
+        "location": "Mt. Duergar",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "043",
+        "contents": "Great Helm",
+        "location": "Mt. Duergar",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "044",
+        "contents": "Wyrmkiller",
+        "location": "Mt. Duergar",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "045",
+        "contents": "Ether",
+        "location": "Mt. Duergar",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "046",
+        "contents": "Potion",
+        "location": "Mt. Duergar",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "047",
+        "contents": "Mythril Mail",
+        "location": "Mt. Duergar",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "048",
+        "contents": "575 Gil",
+        "location": "Mt. Duergar",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "049",
+        "contents": "Cottage",
+        "location": "Mt. Duergar",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "050",
+        "contents": "1,975 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "051",
+        "contents": "880 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "052",
+        "contents": "Potion",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "053",
+        "contents": "Antidote",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "054",
+        "contents": "795 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "055",
+        "contents": "Coral Sword",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "056",
+        "contents": "Tent",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "057",
+        "contents": "330 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "058",
+        "contents": "5,000 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "059",
+        "contents": "Leather Shield",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "060",
+        "contents": "575 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "061",
+        "contents": "Sleeping Bag",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "062",
+        "contents": "Gold Needle",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "063",
+        "contents": "3,400 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "064",
+        "contents": "1,020 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "065",
+        "contents": "Star Ruby",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "true"
+    },
+
+    {
+        "id": "066",
+        "contents": "1,455 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "067",
+        "contents": "5,450 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "068",
+        "contents": "1,520 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "069",
+        "contents": "Staff",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "070",
+        "contents": "3,400 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "071",
+        "contents": "Tent",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "072",
+        "contents": "1,250 Gil",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
+
+    {
+        "id": "073",
+        "contents": "Mythril Shield",
+        "location": "Cavern of Earth",
+        "locked": "false",
+        "keyItem": "false"
+    },
 ]
