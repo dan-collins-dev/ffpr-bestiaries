@@ -6,47 +6,51 @@
 	import bestiary from '../../../data/ff1/bestiary.json';
 	let large = '.large';
 	let small = '.small';
-	let ls = JSON.stringify(bestiary);
-	let bJson = JSON.parse(ls)
-	let encounteredMonsters = 0
+	let encounteredMonsters;
+
+	// Although the data is in a stringified JSON file,
+	// I had to stringify the file still for it to parse.
+	let stringifiedBestiary = JSON.stringify(bestiary);
+	let bestiaryJSON = JSON.parse(stringifiedBestiary);
+
 	onMount(() => {
-		console.log("Page is in onMount")
 		if (localStorage.getItem('entries') === null) {
-			localStorage.setItem('entries', ls);
+			localStorage.setItem('entries', stringifiedBestiary);
 		} else {
-			// console.log('Entries found');
-			bJson = JSON.parse(localStorage.getItem("entries"))
+			bestiaryJSON = JSON.parse(localStorage.getItem('entries'));
+			updateEncounterTotal();
 		}
 	});
 
 	const handleEntryUpdate = (e) => {
-		console.log(e.detail.idx);
-		console.log(bJson[e.detail.idx])
-		bJson[e.detail.idx].encountered = !bJson[e.detail.idx].encountered
-		localStorage.setItem("entries", JSON.stringify(bJson))
+		bestiaryJSON[e.detail.idx].encountered = !bestiaryJSON[e.detail.idx].encountered;
+		localStorage.setItem('entries', JSON.stringify(bestiaryJSON));
+		updateEncounterTotal();
 	};
 
-	const say = (e) => {
-		console.log(e.target)
-	}
-
-	
+	const updateEncounterTotal = () => {
+		encounteredMonsters = 0;
+		bestiaryJSON.forEach((enemy) => {
+			if (enemy.encountered === true) {
+				encounteredMonsters += 1;
+			}
+		});
+	};
 </script>
 
 <p class:large>Final Fantasy I</p>
 <p class:small>Bestiary</p>
-<EncounterTotal />
-<div>
-	{#each bJson as entry, idx (entry.id)}
-		<Entry
-			on:entryUpdate={handleEntryUpdate}
-			index={idx}
-			monsterId={entry.id}
-			name={entry.name}
-			encountered={entry.encountered}
-		/>
-	{/each}
-</div>
+
+<EncounterTotal {encounteredMonsters} />
+{#each bestiaryJSON as entry, idx (entry.id)}
+	<Entry
+		on:entryUpdate={handleEntryUpdate}
+		index={idx}
+		monsterId={entry.id}
+		name={entry.name}
+		encountered={entry.encountered}
+	/>
+{/each}
 
 <style>
 	p {
