@@ -26,7 +26,7 @@
             "World Map",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -59,7 +59,7 @@
             "Cavern of Earth",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -91,7 +91,7 @@
             "World Map",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -122,7 +122,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -165,7 +165,7 @@
             "Chaos Shrine",
             "Marsh Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -199,7 +199,7 @@
             "Cavern of Earth",
             "Marsh Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -231,7 +231,7 @@
             "World Map",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -266,7 +266,7 @@
             "Marsh Cave",
             "Giant's Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -302,7 +302,7 @@
             "Cavern of Earth",
             "Marsh Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
     
     {
@@ -345,7 +345,7 @@
             "Chaos Shrine",
             "Marsh Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -388,7 +388,7 @@
             "Chaos Shrine",
             "Marsh Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -419,7 +419,7 @@
         "spawnArea": [
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -451,7 +451,7 @@
             "World Map",
             "Cavern of Earth"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -484,7 +484,7 @@
             "Cavern of Earth",
             "Giant's Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -518,7 +518,7 @@
             "Giant's Cave",
             "Mount Gulg"
         ],
-        "encountered": "false"
+        "encountered": false
     },
     {
         "id": "016",
@@ -550,7 +550,7 @@
             "Cavern of Earth",
             "Mount Gulg"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -581,7 +581,7 @@
         "spawnArea": [
             "Pravoka"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -613,7 +613,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -646,7 +646,7 @@
             "World Map",
             "Sunken Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -677,7 +677,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -710,7 +710,7 @@
             "World Map",
             "Sunken Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -742,7 +742,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -776,7 +776,7 @@
             "Marsh Cave",
             "Giant's Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -819,7 +819,7 @@
             "Cavern of Earth",
             "Cavern of Ice"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -852,7 +852,7 @@
             "Marsh Cave",
             "Mount Gulg"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -896,7 +896,7 @@
             "World Map",
             "Marsh Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -938,7 +938,7 @@
         "spawnArea": [
             "Marsh Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -969,7 +969,7 @@
         "spawnArea": [
             "Marsh Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1012,7 +1012,7 @@
             "Marsh Cave",
             "Mount Gulg"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1044,7 +1044,7 @@
             "Marsh Cave",
             "Cavern of Earth"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1086,7 +1086,7 @@
             "Marsh Cave",
             "Cavern of Ice"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1129,7 +1129,7 @@
             "Cavern of Ice",
             "Cavern of Earth"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1160,7 +1160,7 @@
         "spawnArea": [
             "Western Keep"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1206,7 +1206,7 @@
             "Mirage Tower",
             "Western Keep"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1251,7 +1251,7 @@
             "Cavern of Ice",
             "Western Keep"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1284,7 +1284,7 @@
             "Cavern of Earth",
             "Marsh Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1316,7 +1316,7 @@
             "World Map",
             "Mount Gulg"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1348,7 +1348,7 @@
             "World Map",
             "Giant's Cave"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1381,7 +1381,7 @@
             "Cavern of Earth",
             "Mount Gulg"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1414,7 +1414,7 @@
             "Cavern of Earth",
             "Mount Gulg"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1457,7 +1457,7 @@
             "Cavern of Earth",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1489,7 +1489,7 @@
             "World Map",
             "Cavern of Earth"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1531,7 +1531,7 @@
             "Cavern of Earth",
             "Cavern of Ice"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1573,7 +1573,7 @@
         "spawnArea": [
             "Cavern of Earth"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1606,7 +1606,7 @@
             "Cavern of Ice",
             "Mirage Tower"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1652,7 +1652,7 @@
             "Chaos Shrine",
             "Cavern of Earth"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1686,7 +1686,7 @@
             "World Map",
             "Mount Gulg"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1718,7 +1718,7 @@
             "World Map",
             "Mount Gulg"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1763,7 +1763,7 @@
         "spawnArea": [
             "Cavern of Earth"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1795,7 +1795,7 @@
             "World Map",
             "Mount Gulg"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1827,7 +1827,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1858,7 +1858,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1890,7 +1890,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1922,7 +1922,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1954,7 +1954,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -1985,7 +1985,7 @@
         "spawnArea": [
             "Flying Fortress"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2016,7 +2016,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2050,7 +2050,7 @@
             "Mount Gulg",
             "Citadel of Trials"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2084,7 +2084,7 @@
             "Waterfall Cavern",
             "Mirage Tower"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2126,7 +2126,7 @@
             "Mount Gulg",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2158,7 +2158,7 @@
             "Mount Gulg",
             "Flying Fortress"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2191,7 +2191,7 @@
             "Mount Gulg",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2224,7 +2224,7 @@
             "Mount Gulg",
             "Mirage Tower"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2256,7 +2256,7 @@
             "Mount Gulg",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2288,7 +2288,7 @@
             "Mount Gulg",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2321,7 +2321,7 @@
             "Mount Gulg",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2359,7 +2359,7 @@
         "spawnArea": [
             "Mount Gulg"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2395,7 +2395,7 @@
             "Cavern of Ice",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2428,7 +2428,7 @@
             "Cavern of Ice",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2462,7 +2462,7 @@
             "Flying Fortress",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2495,7 +2495,7 @@
             "Cavern of Ice",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2538,7 +2538,7 @@
         "spawnArea": [
             "Cavern of Ice"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2572,7 +2572,7 @@
             "World Map",
             "Cavern of Ice"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2604,7 +2604,7 @@
             "Cavern of Ice",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2636,7 +2636,7 @@
             "Flying Fortress",
             "Cavern of Ice"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2667,7 +2667,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2699,7 +2699,7 @@
             "World Map",
             "Mirage Tower"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2731,7 +2731,7 @@
             "World Map",
             "Mirage Tower"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2763,7 +2763,7 @@
             "World Map",
             "Mirage Tower"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2795,7 +2795,7 @@
             "World Map",
             "Flying Fortress"
         ],
-        "encountered": "false"
+        "encountered": false
     },
     
     {
@@ -2826,7 +2826,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2858,7 +2858,7 @@
             "World Map",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2889,7 +2889,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2923,7 +2923,7 @@
             "World Map",
             "Mirage Tower"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2955,7 +2955,7 @@
             "World Map",
             "Flying Fortress"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -2997,7 +2997,7 @@
             "World Map",
             "Citadel of Trials"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3040,7 +3040,7 @@
             "Waterfall Cavern",
             "Mirage Tower"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3073,7 +3073,7 @@
             "Mirage Tower",
             "Flying Fortress"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3117,7 +3117,7 @@
             "Citadel of Trials",
             "Flying Fortress"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3162,7 +3162,7 @@
             "Flying Fortress",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3207,7 +3207,7 @@
             "Flying Fortress",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3251,7 +3251,7 @@
             "Citadel of Trials",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3284,7 +3284,7 @@
             "Chaos Shrine",
             "Sunken Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3317,7 +3317,7 @@
             "Chaos Shrine",
             "Sunken Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3350,7 +3350,7 @@
             "Chaos Shrine",
             "Sunken Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3384,7 +3384,7 @@
             "Chaos Shrine",
             "Sunken Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3417,7 +3417,7 @@
             "Chaos Shrine",
             "Sunken Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3450,7 +3450,7 @@
             "Chaos Shrine",
             "Sunken Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3493,7 +3493,7 @@
         "spawnArea": [
             "Sunken Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3535,7 +3535,7 @@
             "Chaos Shrine",
             "Sunken Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3569,7 +3569,7 @@
             "Chaos Shrine",
             "Sunken Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3605,7 +3605,7 @@
         "spawnArea": [
             "Sunken Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3636,7 +3636,7 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3669,7 +3669,7 @@
             "Flying Fortress",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3704,7 +3704,7 @@
             "Flying Fortress",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3744,7 +3744,7 @@
             "Mirage Tower",
             "Flying Fortress"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3776,7 +3776,7 @@
         "spawnArea": [
             "Mirage Tower"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3808,7 +3808,7 @@
             "Waterfall Cavern",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3852,7 +3852,7 @@
             "Flying Fortress",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3893,7 +3893,7 @@
             "Flying Fortress",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3924,7 +3924,7 @@
         "spawnArea": [
             "Flying Fortress"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3965,7 +3965,7 @@
             "Flying Fortress",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -3998,7 +3998,7 @@
             "Flying Fortress",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4041,7 +4041,7 @@
             "Flying Fortress",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4083,7 +4083,7 @@
         "spawnArea": [
             "Flying Fortress"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4129,7 +4129,7 @@
             "Flying Fortress",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4161,7 +4161,7 @@
             "Flying Fortress",
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4204,7 +4204,7 @@
         "spawnArea": [
             "Flying Fortress"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4242,7 +4242,7 @@
         "spawnArea": [
             "Flying Fortress"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4275,7 +4275,7 @@
         "spawnArea": [
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4319,7 +4319,7 @@
         "spawnArea": [
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4350,7 +4350,7 @@
         "spawnArea": [
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4392,7 +4392,7 @@
         "spawnArea": [
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4436,7 +4436,7 @@
         "spawnArea": [
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4475,7 +4475,7 @@
         "spawnArea": [
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4511,7 +4511,7 @@
         "spawnArea": [
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4550,7 +4550,7 @@
         "spawnArea": [
             "Chaos Shrine"
         ],
-        "encountered": "false"
+        "encountered": false
     },
 
     {
@@ -4581,6 +4581,6 @@
         "spawnArea": [
             "???"
         ],
-        "encountered": "false"
+        "encountered": false
     }
 ]

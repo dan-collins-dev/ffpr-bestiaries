@@ -16,6 +16,7 @@
 	onMount(() => {
 		if (localStorage.getItem('entries') === null) {
 			localStorage.setItem('entries', stringifiedBestiary);
+			updateEncounterTotal()
 		} else {
 			bestiaryJSON = JSON.parse(localStorage.getItem('entries'));
 			updateEncounterTotal();
