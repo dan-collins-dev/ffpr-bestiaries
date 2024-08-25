@@ -1,5 +1,6 @@
 <script>
 	import '../app.css';
+	import { base } from '$app/paths';
 </script>
 
 
@@ -7,7 +8,7 @@
 	<p>FFPR Compendium</p>
 	<nav>
 		<ul>
-			<li><a href="/">Home</a></li>
+			<li><a href="{base}/">Home</a></li>
 	</nav>
 </header>
 
