@@ -1,9 +1,9 @@
 <script>
 	import { onMount } from 'svelte';
-	import '../../../app.css';
-	import EncounterTotal from '../../../components/EncounterTotal.svelte';
-	import Entry from '../../../components/Entry.svelte';
-	import bestiary from '../../../data/ff1/bestiary.json';
+	import '$appCSS';
+	import EncounterTotal from '$components/EncounterTotal.svelte';
+	import Entry from '$components/Entry.svelte';
+	import bestiary from '$data/ff1/bestiary.json';
 	let large = '.large';
 	let small = '.small';
 	let encounteredMonsters;
