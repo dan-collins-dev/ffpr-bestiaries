@@ -1,23 +1,15 @@
 <script>
-	import { createEventDispatcher } from 'svelte';
-	const dispatch = createEventDispatcher();
+    import {ff1Bestiary} from "$store"
 
-	export let index = 0;
-	export let monsterId = '000';
-	export let name = 'Monster Name';
-	export let encountered = false;
-
-	const entryUpdated = () => {
-		dispatch('entryUpdate', {
-			idx: index
-		});
-	};
+    export let data
+    export let index = 0
 </script>
 
 <div>
-	<input on:click={entryUpdated} bind:checked={encountered} type="checkbox" />
-	<p>{monsterId}</p>
-	<p>{name}</p>
+	<input on:click={ff1Bestiary.editEntry(index)} bind:checked={data.encountered}  type="checkbox" />
+	<p>{data.id}</p>
+	<p>{data.name}</p>
+    <p>{data.encountered}</p>
 </div>
 
 <style>

@@ -1,40 +1,57 @@
-import { writable } from "svelte/store";
-import { browser } from "$app/environment";
+import { writable } from 'svelte/store';
+import { browser } from '$app/environment';
 
-class DataStorage {
-    constructor(dataKey) {
-        this.dataKey = dataKey
-        this.data = [];
-    }
+const createDataStorage = (key, dataArray) => {
+	const { subscribe, set, update } = writable(dataArray);
 
-    getData = () => {
-        if (browser) {
-            if (localStorage.getItem(this.dataKey) === null) {
-                localStorage.setItem(this.dataKey ,JSON.stringify(this.data))
-            } else {
-                this.data = JSON.parse(localStorage.getItem(this.dataKey))
-            }
-        }
+	const initStorage = () => {
+		update((dataArray) => {
+			if (browser) {
+				if (localStorage.getItem(key) === null) {
+					localStorage.setItem(key, JSON.stringify(dataArray));
+				} else {
+					dataArray = JSON.parse(localStorage.getItem(key));
+				}
+			}
 
-        return this.data
-    }
+			return dataArray;
+		});
+	};
 
-    setData = (value) => {
-        if (browser) {
-            this.data = this.getData()
-            this.data.push(value)
-            localStorage.setItem(this.dataKey, JSON.stringify(this.data))
-        }
-    }
+	const addEntries = (value) => {
+		update((dataArray) => {
+			dataArray = [...dataArray, value];
+			if (browser) {
+				localStorage.setItem(key, JSON.stringify(dataArray));
+			}
 
-    updateData = () => {
-        if (browser) {
-            this.data = [...this.data]
-            localStorage.setItem(this.dataKey, JSON.stringify(this.data))
-        }
-    }
-}
+			return dataArray;
+		});
+	};
 
-// TODO: update the variable names because I hate numbers in the middle
-// of variable names
-export const ff1Bestiary = writable(new DataStorage("ff1-bestiary"))
+	const editEntry = (index) => {
+		update((dataArray) => {
+			if (browser) {
+				let storage = JSON.parse(localStorage.getItem(key));
+				storage[index].encountered = !storage[index].encountered;
+				dataArray = storage;
+				localStorage.setItem(key, JSON.stringify(dataArray));
+			}
+
+			return dataArray;
+		});
+	};
+
+	const reset = () => {
+		// set("0")
+		// // if (browser)
+	};
+
+	return { subscribe, reset, addEntries, initStorage, editEntry };
+};
+
+import bestiary from '$data/ff1/bestiary.json';
+let stringifiedBestiary = JSON.stringify(bestiary);
+let bestiaryJSON = JSON.parse(stringifiedBestiary);
+
+export const ff1Bestiary = createDataStorage('ff1-bestiary', bestiaryJSON);

@@ -1,5 +1,5 @@
 <h1>Games</h1>
-<hr>
+<hr />
 <ul>
-    <li><a href="./ff1/bestiary">Link to bestiary</a></li>
+	<li><a href="./ff1/bestiary">Link to bestiary</a></li>
 </ul>

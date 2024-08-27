@@ -1,7 +1,16 @@
 <script>
-	export let encounteredMonsters = 0;
-	let totalMonsters = 128;
-	$: progress = Math.floor((encounteredMonsters / totalMonsters) * 100);
+	import { ff1Bestiary } from '$store';
+
+	$: progress = Math.floor((getEncounteredMonsters() / $ff1Bestiary.length) * 100);
+
+	$: getEncounteredMonsters = () => {
+		let count = 0;
+		$ff1Bestiary.forEach((monster) => {
+			if (monster.encountered === true) count += 1;
+		});
+
+		return count;
+	};
 </script>
 
 <section>
