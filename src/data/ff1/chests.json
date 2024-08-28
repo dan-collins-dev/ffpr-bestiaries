@@ -4,7 +4,8 @@
         "contents": "Iron Armor",
         "location": "Castle Cornelia",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -12,7 +13,8 @@
         "contents": "Tent",
         "location": "Castle Cornelia",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -20,7 +22,8 @@
         "contents": "Nitro Powder",
         "location": "Castle Cornelia",
         "locked": "true",
-        "keyItem": "true"
+        "keyItem": "true",
+        "opened": false
     },
 
     {
@@ -28,7 +31,8 @@
         "contents": "Cottage",
         "location": "Castle Cornelia",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -36,7 +40,8 @@
         "contents": "Saber",
         "location": "Castle Cornelia",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -44,7 +49,8 @@
         "contents": "Mythril Knife",
         "location": "Castle Cornelia",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -52,7 +58,8 @@
         "contents": "Potion",
         "location": "Chaos Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -60,7 +67,8 @@
         "contents": "Tent",
         "location": "Chaos Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -68,7 +76,8 @@
         "contents": "Leather Cap",
         "location": "Chaos Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -76,7 +85,8 @@
         "contents": "Werebuster",
         "location": "Chaos Shrine",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -84,7 +94,8 @@
         "contents": "Gold Needle",
         "location": "Chaos Shrine",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -92,7 +103,8 @@
         "contents": "Rune Blade",
         "location": "Chaos Shrine",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -100,7 +112,8 @@
         "contents": "Potion",
         "location": "Matoya's Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -108,7 +121,8 @@
         "contents": "Potion",
         "location": "Matoya's Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -116,7 +130,8 @@
         "contents": "Antidote",
         "location": "Matoya's Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -124,7 +139,8 @@
         "contents": "Mythril Hammer",
         "location": "Elven Castle",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -132,7 +148,8 @@
         "contents": "800 Gil",
         "location": "Elven Castle",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -140,7 +157,8 @@
         "contents": "700 Gil",
         "location": "Elven Castle",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -148,7 +166,8 @@
         "contents": "Bronze Gloves",
         "location": "Elven Castle",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -156,7 +175,8 @@
         "contents": "Power Staff",
         "location": "Western Keep",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -164,7 +184,8 @@
         "contents": "Falchion",
         "location": "Western Keep",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -172,7 +193,8 @@
         "contents": "Steel Gloves",
         "location": "Western Keep",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -180,7 +202,8 @@
         "contents": "Dagger",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -188,7 +211,8 @@
         "contents": "1,120 Gil",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -196,7 +220,8 @@
         "contents": "Potion",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -204,7 +229,8 @@
         "contents": "1,180 Gil",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -212,7 +238,8 @@
         "contents": "Broadsword",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -220,7 +247,8 @@
         "contents": "Potion",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -228,7 +256,8 @@
         "contents": "Potion",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -236,7 +265,8 @@
         "contents": "Phoenix Down",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -244,7 +274,8 @@
         "contents": "Potion",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -252,7 +283,8 @@
         "contents": "Cottage",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -260,7 +292,8 @@
         "contents": "Copper Armlet",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -268,7 +301,8 @@
         "contents": "1,045 Gil",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -276,7 +310,8 @@
         "contents": "Potion",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -284,7 +319,8 @@
         "contents": "Crown",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "true"
+        "keyItem": "true",
+        "opened": false
     },
 
     {
@@ -292,7 +328,8 @@
         "contents": "1,135 Gil",
         "location": "Marsh Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -300,7 +337,8 @@
         "contents": "Silver Armlet",
         "location": "Marsh Cave",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -308,7 +346,8 @@
         "contents": "Antidote",
         "location": "Marsh Cave",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -316,7 +355,8 @@
         "contents": "1,020 Gil",
         "location": "Marsh Cave",
         "locked": "true",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -324,7 +364,8 @@
         "contents": "450 Gil",
         "location": "Mt. Duergar",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -332,7 +373,8 @@
         "contents": "575 Gil",
         "location": "Mt. Duergar",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -340,7 +382,8 @@
         "contents": "Tent",
         "location": "Mt. Duergar",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -348,7 +391,8 @@
         "contents": "Great Helm",
         "location": "Mt. Duergar",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -356,7 +400,8 @@
         "contents": "Wyrmkiller",
         "location": "Mt. Duergar",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -364,7 +409,8 @@
         "contents": "Ether",
         "location": "Mt. Duergar",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -372,7 +418,8 @@
         "contents": "Potion",
         "location": "Mt. Duergar",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -380,7 +427,8 @@
         "contents": "Mythril Mail",
         "location": "Mt. Duergar",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -388,7 +436,8 @@
         "contents": "575 Gil",
         "location": "Mt. Duergar",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -396,7 +445,8 @@
         "contents": "Cottage",
         "location": "Mt. Duergar",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -404,7 +454,8 @@
         "contents": "1,975 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -412,7 +463,8 @@
         "contents": "880 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -420,7 +472,8 @@
         "contents": "Potion",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -428,7 +481,8 @@
         "contents": "Antidote",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -436,7 +490,8 @@
         "contents": "795 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -444,7 +499,8 @@
         "contents": "Coral Sword",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -452,7 +508,8 @@
         "contents": "Tent",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -460,7 +517,8 @@
         "contents": "330 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -468,7 +526,8 @@
         "contents": "5,000 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -476,7 +535,8 @@
         "contents": "Leather Shield",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -484,7 +544,8 @@
         "contents": "575 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -492,7 +553,8 @@
         "contents": "Sleeping Bag",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -500,7 +562,8 @@
         "contents": "Gold Needle",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -508,7 +571,8 @@
         "contents": "3,400 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -516,7 +580,8 @@
         "contents": "1,020 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -524,7 +589,8 @@
         "contents": "Star Ruby",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "true"
+        "keyItem": "true",
+        "opened": false
     },
 
     {
@@ -532,7 +598,8 @@
         "contents": "1,455 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -540,7 +607,8 @@
         "contents": "5,450 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -548,7 +616,8 @@
         "contents": "1,520 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -556,7 +625,8 @@
         "contents": "Staff",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -564,7 +634,8 @@
         "contents": "3,400 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -572,7 +643,8 @@
         "contents": "Tent",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -580,7 +652,8 @@
         "contents": "1,250 Gil",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -588,7 +661,8 @@
         "contents": "Mythril Shield",
         "location": "Cavern of Earth",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -596,7 +670,8 @@
         "contents": "Mythril Helm",
         "location": "Giant's Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -604,7 +679,8 @@
         "contents": "450 Gil",
         "location": "Giant's Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -612,7 +688,8 @@
         "contents": "620 Gil",
         "location": "Giant's Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -620,7 +697,8 @@
         "contents": "Great Axe",
         "location": "Giant's Cave",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -628,7 +706,8 @@
         "contents": "Mythril Helm",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -636,7 +715,8 @@
         "contents": "1,520 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -644,7 +724,8 @@
         "contents": "Great Sword",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -652,7 +733,8 @@
         "contents": "4,150 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -660,7 +742,8 @@
         "contents": "1,295 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -668,7 +751,8 @@
         "contents": "1,250 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -676,7 +760,8 @@
         "contents": "Hi-Potion",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -684,7 +769,8 @@
         "contents": "Tent",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -692,7 +778,8 @@
         "contents": "Mythril Helm",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -700,7 +787,8 @@
         "contents": "Mythril Gloves",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -708,7 +796,8 @@
         "contents": "1,975 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -716,7 +805,8 @@
         "contents": "Antidote",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -724,7 +814,8 @@
         "contents": "1,520 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -732,7 +823,8 @@
         "contents": "1,760 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -740,7 +832,8 @@
         "contents": "Mythril Shield",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -748,7 +841,8 @@
         "contents": "1,455 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -756,7 +850,8 @@
         "contents": "Mythril Axe",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -764,7 +859,8 @@
         "contents": "Phoenix Down",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -772,7 +868,8 @@
         "contents": "2,750 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -780,7 +877,8 @@
         "contents": "Gold Needle",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -788,7 +886,8 @@
         "contents": "1,760 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -796,7 +895,8 @@
         "contents": "Antidote",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -804,7 +904,8 @@
         "contents": "7,340 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -812,7 +913,8 @@
         "contents": "Flame Shield",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -820,7 +922,8 @@
         "contents": "Ice Brand",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -828,7 +931,8 @@
         "contents": "1,380 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -836,7 +940,8 @@
         "contents": "1,150 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -844,7 +949,8 @@
         "contents": "1,155 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -852,7 +958,8 @@
         "contents": "Cottage",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -860,7 +967,8 @@
         "contents": "2,000 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -868,7 +976,8 @@
         "contents": "Potion",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -876,7 +985,8 @@
         "contents": "1,250 Gil",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -884,7 +994,8 @@
         "contents": "Staff",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -892,7 +1003,8 @@
         "contents": "Potion",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -900,7 +1012,8 @@
         "contents": "Potion",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -908,7 +1021,8 @@
         "contents": "Potion",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -916,7 +1030,8 @@
         "contents": "Flame Mail",
         "location": "Mt. Gulg",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -924,7 +1039,8 @@
         "contents": "Flame Sword",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -932,7 +1048,8 @@
         "contents": "Clothes",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -940,7 +1057,8 @@
         "contents": "Mythril Gloves",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -948,7 +1066,8 @@
         "contents": "Ice Armor",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -956,7 +1075,8 @@
         "contents": "7,900 Gil",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -964,7 +1084,8 @@
         "contents": "5,454 Gil",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -972,7 +1093,8 @@
         "contents": "1,180 Gil",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -980,7 +1102,8 @@
         "contents": "9,900 Gil",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -988,7 +1111,8 @@
         "contents": "5,000 Gil",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -996,7 +1120,8 @@
         "contents": "12,350 Gil",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1004,7 +1129,8 @@
         "contents": "Ether",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1012,7 +1138,8 @@
         "contents": "10,000 Gil",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1020,7 +1147,8 @@
         "contents": "9,500 Gil",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1028,7 +1156,8 @@
         "contents": "Sleeping Bag",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1036,7 +1165,8 @@
         "contents": "Ice Shield",
         "location": "Cavern of Ice",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1044,7 +1174,8 @@
         "contents": "Potion",
         "location": "Citadel of Trials",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1052,7 +1183,8 @@
         "contents": "Healing Staff",
         "location": "Citadel of Trials",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1060,7 +1192,8 @@
         "contents": "Ruby Armlet",
         "location": "Citadel of Trials",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1068,7 +1201,8 @@
         "contents": "Ice Brand",
         "location": "Citadel of Trials",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1076,7 +1210,8 @@
         "contents": "Steel Gloves",
         "location": "Citadel of Trials",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1084,7 +1219,8 @@
         "contents": "Gauntlets",
         "location": "Citadel of Trials",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1092,7 +1228,8 @@
         "contents": "Cottage",
         "location": "Citadel of Trials",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1100,7 +1237,8 @@
         "contents": "1,455 Gil",
         "location": "Citadel of Trials",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1108,7 +1246,8 @@
         "contents": "7,340 Gil",
         "location": "Citadel of Trials",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1116,7 +1255,8 @@
         "contents": "Rat's Tail",
         "location": "Citadel of Trials",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1124,7 +1264,8 @@
         "contents": "Tent",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1132,7 +1273,8 @@
         "contents": "Dry Ether",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1140,7 +1282,8 @@
         "contents": "Gold Needle",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1148,7 +1291,8 @@
         "contents": "Elixir",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1156,7 +1300,8 @@
         "contents": "Cottage",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1164,7 +1309,8 @@
         "contents": "1,000 Gil",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1172,7 +1318,8 @@
         "contents": "X-Potion",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1180,7 +1327,8 @@
         "contents": "9,500 Gil",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1188,7 +1336,8 @@
         "contents": "2,750 Gil",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1196,7 +1345,8 @@
         "contents": "1,520 Gil",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1204,7 +1354,8 @@
         "contents": "2,750 Gil",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1212,7 +1363,8 @@
         "contents": "2,000 Gil",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1220,7 +1372,8 @@
         "contents": "1,455 Gil",
         "location": "Dragon Caves",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1228,7 +1381,8 @@
         "contents": "Wizard's Staff",
         "location": "Waterfall Cavern",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1236,7 +1390,8 @@
         "contents": "Ribbon",
         "location": "Waterfall Cavern",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1244,7 +1399,8 @@
         "contents": "13,450 Gil",
         "location": "Waterfall Cavern",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1252,7 +1408,8 @@
         "contents": "6,400 Gil",
         "location": "Waterfall Cavern",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1260,7 +1417,8 @@
         "contents": "5,000 Gil",
         "location": "Waterfall Cavern",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1268,7 +1426,8 @@
         "contents": "Defender",
         "location": "Waterfall Cavern",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1276,7 +1435,8 @@
         "contents": "9,900 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1284,7 +1444,8 @@
         "contents": "2,000 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1292,7 +1453,8 @@
         "contents": "1,300 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1300,7 +1462,8 @@
         "contents": "Diamond Armor",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1308,7 +1471,8 @@
         "contents": "Light Axe",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1316,7 +1480,8 @@
         "contents": "Mage's Staff",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1324,7 +1489,8 @@
         "contents": "12,350 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1332,7 +1498,8 @@
         "contents": "Antidote",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1340,7 +1507,8 @@
         "contents": "Diamond Shield",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1348,7 +1516,8 @@
         "contents": "9,000 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1356,7 +1525,8 @@
         "contents": "1,760 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1364,7 +1534,8 @@
         "contents": "Diamond Armlet",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1372,7 +1543,8 @@
         "contents": "4,150 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1380,7 +1552,8 @@
         "contents": "5,000 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1388,7 +1561,8 @@
         "contents": "2,750 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1396,7 +1570,8 @@
         "contents": "10,000 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1404,7 +1579,8 @@
         "contents": "1,150 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1412,7 +1588,8 @@
         "contents": "Diamond Helm",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1420,7 +1597,8 @@
         "contents": "Diamond Gloves",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1428,7 +1606,8 @@
         "contents": "Rosetta Stone",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "true"
+        "keyItem": "true",
+        "opened": false
     },
 
     {
@@ -1436,7 +1615,8 @@
         "contents": "1,110 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1444,7 +1624,8 @@
         "contents": "1,450 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1452,7 +1633,8 @@
         "contents": "7,690 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1460,7 +1642,8 @@
         "contents": "8,135 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1468,7 +1651,8 @@
         "contents": "5,450 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1476,7 +1660,8 @@
         "contents": "1,385 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1484,7 +1669,8 @@
         "contents": "Giant's Glove",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1492,7 +1678,8 @@
         "contents": "Light Axe",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1500,7 +1687,8 @@
         "contents": "Ribbon",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1508,7 +1696,8 @@
         "contents": "9,900 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1516,7 +1705,8 @@
         "contents": "7,340 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1524,7 +1714,8 @@
         "contents": "2,750 Gil",
         "location": "Sunken Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1532,7 +1723,8 @@
         "contents": "Tent",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1540,7 +1732,8 @@
         "contents": "Aegis Shield",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1548,7 +1741,8 @@
         "contents": "2,750 Gil",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1556,7 +1750,8 @@
         "contents": "18,010 Gil",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1564,7 +1759,8 @@
         "contents": "Vorpal Sword",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1572,7 +1768,8 @@
         "contents": "3,400 Gil",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1580,7 +1777,8 @@
         "contents": "Healing Helm",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1588,7 +1786,8 @@
         "contents": "1,300 Gil",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1596,7 +1795,8 @@
         "contents": "13,000 Gil",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1604,7 +1804,8 @@
         "contents": "12,350 Gil",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1612,7 +1813,8 @@
         "contents": "Thor's Hammer",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1620,7 +1822,8 @@
         "contents": "7,900 Gil",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1628,7 +1831,8 @@
         "contents": "8,135 Gil",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1636,7 +1840,8 @@
         "contents": "Cottage",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1644,7 +1849,8 @@
         "contents": "7,600 Gil",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1652,7 +1858,8 @@
         "contents": "Sun Blade",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1660,7 +1867,8 @@
         "contents": "10,000 Gil",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1668,7 +1876,8 @@
         "contents": "Dragon Mail",
         "location": "Mirage Tower",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1676,7 +1885,8 @@
         "contents": "9,900 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1684,7 +1894,8 @@
         "contents": "Potion",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1692,7 +1903,8 @@
         "contents": "4,150 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1700,7 +1912,8 @@
         "contents": "7,900 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1708,7 +1921,8 @@
         "contents": "Razer",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1716,7 +1930,8 @@
         "contents": "5,000 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1724,7 +1939,8 @@
         "contents": "Protect Ring",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1732,7 +1948,8 @@
         "contents": "6,720 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1740,7 +1957,8 @@
         "contents": "Healing Helm",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1748,7 +1966,8 @@
         "contents": "180 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1756,7 +1975,8 @@
         "contents": "Mythril Helm",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1764,7 +1984,8 @@
         "contents": "Cottage",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1772,7 +1993,8 @@
         "contents": "1,380 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1780,7 +2002,8 @@
         "contents": "13,000 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1788,7 +2011,8 @@
         "contents": "Adamantite",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1796,7 +2020,8 @@
         "contents": "Diamond Gloves",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1804,7 +2029,8 @@
         "contents": "Ribbon",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1812,7 +2038,8 @@
         "contents": "Diamond Shield",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1820,7 +2047,8 @@
         "contents": "White Robe",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1828,7 +2056,8 @@
         "contents": "Black Robe",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1836,7 +2065,8 @@
         "contents": "Protect Cloak",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1844,7 +2074,8 @@
         "contents": "Clothes",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1852,7 +2083,8 @@
         "contents": "6,400 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1860,7 +2092,8 @@
         "contents": "Gold Needle",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1868,7 +2101,8 @@
         "contents": "9,500 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1876,7 +2110,8 @@
         "contents": "8,135 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1884,7 +2119,8 @@
         "contents": "9,000 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1892,7 +2128,8 @@
         "contents": "Potion",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1900,7 +2137,8 @@
         "contents": "Protect Ring",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1908,7 +2146,8 @@
         "contents": "5,450 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1916,7 +2155,8 @@
         "contents": "Gold Needle",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1924,7 +2164,8 @@
         "contents": "4,150 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1932,7 +2173,8 @@
         "contents": "3,400 Gil",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1940,7 +2182,8 @@
         "contents": "Sasuke's Blade",
         "location": "Flying Fortress",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1948,7 +2191,8 @@
         "contents": "Dry Ether",
         "location": "Chaos Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1956,7 +2200,8 @@
         "contents": "Elixir",
         "location": "Chaos Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1964,7 +2209,8 @@
         "contents": "Protect Ring",
         "location": "Chaos Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1972,7 +2218,8 @@
         "contents": "Sasuke's Blade",
         "location": "Chaos Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1980,7 +2227,8 @@
         "contents": "Protect Cloak",
         "location": "Chaos Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1988,7 +2236,8 @@
         "contents": "Elixir",
         "location": "Chaos Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     },
 
     {
@@ -1996,6 +2245,7 @@
         "contents": "Masamune",
         "location": "Chaos Shrine",
         "locked": "false",
-        "keyItem": "false"
+        "keyItem": "false",
+        "opened": false
     }
 ]
