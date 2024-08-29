@@ -1,9 +1,10 @@
 <script>
 	import '$appCSS';
 	import { base } from '$app/paths';
-	import { ff1Bestiary } from '$store';
+	import { ff1Bestiary, ff1Chests } from '$store';
 
 	ff1Bestiary.initStorage()
+	ff1Chests.initStorage()
 </script>
 
 <header>
