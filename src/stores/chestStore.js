@@ -4,6 +4,8 @@ import { browser } from '$app/environment';
 export const createChestStorage = (key, dataArray) => {
 	const { subscribe, set, update } = writable(dataArray);
 
+	const originalData = dataArray;
+
 	const initStorage = () => {
 		update((dataArray) => {
 			if (browser) {
@@ -43,8 +45,10 @@ export const createChestStorage = (key, dataArray) => {
 	};
 
 	const reset = () => {
-		// set("0")
-		// // if (browser)
+		set(originalData);
+		if (browser) {
+			localStorage.setItem(key, JSON.stringify(originalData));
+		}
 	};
 
 	return { subscribe, reset, addEntries, initStorage, editEntry };

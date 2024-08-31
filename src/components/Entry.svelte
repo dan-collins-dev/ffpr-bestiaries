@@ -9,7 +9,6 @@
 	<input on:click={ff1Bestiary.editEntry(index)} bind:checked={data.encountered}  type="checkbox" />
 	<p>{data.id}</p>
 	<p>{data.name}</p>
-    <p>{data.encountered}</p>
 </div>
 
 <style>
