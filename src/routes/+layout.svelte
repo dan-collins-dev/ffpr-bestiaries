@@ -1,10 +1,13 @@
 <script>
 	import '$appCSS';
+	import { browser } from '$app/environment';
 	import { base } from '$app/paths';
 	import { ff1Bestiary, ff1Chests } from '$store';
 
-	ff1Bestiary.initStorage()
-	ff1Chests.initStorage()
+	if (browser) {
+		ff1Bestiary.initStorage();
+		ff1Chests.initStorage();
+	}
 </script>
 
 <header>
