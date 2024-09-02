@@ -12,7 +12,9 @@
         "magicDefense": "16",
         "gil": "6",
         "exp": "6",
-        "items": [],
+        "items": [
+            "None"
+        ],
         "type": [
             "None"
         ],

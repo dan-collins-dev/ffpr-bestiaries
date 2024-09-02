@@ -1,14 +1,23 @@
 <script>
     import {ff1Bestiary} from "$store"
+	import {createEventDispatcher} from "svelte"
 
+	const dispatch = createEventDispatcher()
     export let data
     export let index = 0
+
+	const showDetails = () => {
+		dispatch("showMonsterDetails", {
+			idx: index
+		})
+	}
 </script>
 
 <div>
 	<input on:click={ff1Bestiary.editEntry(index)} bind:checked={data.encountered}  type="checkbox" />
 	<p>{data.id}</p>
 	<p>{data.name}</p>
+	<button on:click={showDetails}>Details</button>
 </div>
 
 <style>
@@ -26,6 +35,10 @@
 
 	p {
 		padding: 0 0.25rem;
+	}
+
+	button {
+		margin-left: auto;
 	}
 
 	
