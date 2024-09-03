@@ -16,6 +16,7 @@
 		dispatch('closeModal', {
 			isClosed: opened
 		});
+        dialog.close();
 	};
 </script>
 
