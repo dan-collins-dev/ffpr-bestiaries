@@ -23,7 +23,7 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		background-color: hsl(240, 63%, 51%);
+		background-color: blue;
 		color: white;
 		padding: 0.5rem;
 	}

@@ -2,7 +2,6 @@
 	import { ff1Bestiary } from '$store';
 	import EncounterTotal from '$components/EncounterTotal.svelte';
 	import Entry from '$components/Entry.svelte';
-	import QuickNav from '$components/QuickNav.svelte';
 	import MonsterDataDisplay from '$components/MonsterDataDisplay.svelte';
 
 	let currentMonster = 0;
@@ -18,7 +17,6 @@
 	};
 </script>
 
-<QuickNav />
 <EncounterTotal />
 {#each $ff1Bestiary as entry, idx}
 	<Entry on:showMonsterDetails={updateMonsterDetails} data={entry} index={idx} />

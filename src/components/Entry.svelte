@@ -27,6 +27,7 @@
 		border: 1px solid black;
 		margin: 0.5rem 1rem;
 		padding: 0.25rem 0.25rem;
+		align-items: center;
 	}
 
 	input {
