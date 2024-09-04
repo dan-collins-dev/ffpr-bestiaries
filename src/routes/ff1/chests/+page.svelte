@@ -4,7 +4,6 @@
 	import ChestTotal from '$components/ChestTotal.svelte';
 </script>
 
-
 <ChestTotal />
 {#each $ff1Chests as entry, idx}
 	<Chest data={entry} index={idx} />

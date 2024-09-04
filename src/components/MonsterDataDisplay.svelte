@@ -60,9 +60,17 @@
 
 	<h2>Drops</h2>
 
-	<div class="">
+	<div class="drops">
 		{#each data[index].items as item}
 			<p>{item}</p>
+		{/each}
+	</div>
+
+    <h2>Areas</h2>
+
+    <div class="areas">
+		{#each data[index].spawnArea as area}
+			<p>{area}</p>
 		{/each}
 	</div>
 
@@ -70,6 +78,9 @@
 </dialog>
 
 <style>
+    dialog::backdrop {
+        background-color: rgba(0, 0, 0, 0.7);
+    }
 	h1 {
 		text-align: center;
 	}
@@ -99,4 +110,19 @@
         flex-direction: column;
         justify-self: stretch; */
 	}
+
+    .drops {
+        display: flex;
+    }
+
+    .areas {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .areas > p {
+        padding: .25rem;
+        margin: .25rem;
+        background-color: rgb(42, 207, 141);
+    }
 </style>
