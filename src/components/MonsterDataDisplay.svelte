@@ -16,7 +16,7 @@
 		dispatch('closeModal', {
 			isClosed: opened
 		});
-        dialog.close();
+		dialog.close();
 	};
 </script>
 
@@ -56,6 +56,12 @@
 
 		<p>Magic Defense:</p>
 		<p class="values">{data[index].magicDefense}</p>
+
+		<p>Gil Dropped:</p>
+		<p class="values">{data[index].gil}</p>
+
+		<p>XP Awarded:</p>
+		<p class="values">{data[index].exp}</p>
 	</div>
 
 	<h2>Drops</h2>
@@ -66,27 +72,38 @@
 		{/each}
 	</div>
 
-    <h2>Areas</h2>
+	<h2>Areas</h2>
 
-    <div class="areas">
+	<div class="areas">
 		{#each data[index].spawnArea as area}
 			<p>{area}</p>
 		{/each}
 	</div>
 
-	<button on:click={closeCard}>Close</button>
+	<div class="button-container">
+		<button on:click={closeCard}>Close</button>
+	</div>
 </dialog>
 
 <style>
-    dialog::backdrop {
-        background-color: rgba(0, 0, 0, 0.7);
-    }
+	dialog::backdrop {
+		background-color: rgba(0, 0, 0, 0.7);
+	}
 	h1 {
 		text-align: center;
 	}
 
 	h2 {
 		text-align: center;
+	}
+
+	button {
+		width: 50%;
+	}
+
+	.button-container {
+		display: flex;
+		justify-content: center;
 	}
 
 	.stats-wrapper {
@@ -111,18 +128,18 @@
         justify-self: stretch; */
 	}
 
-    .drops {
-        display: flex;
-    }
+	.drops {
+		display: flex;
+	}
 
-    .areas {
-        display: flex;
-        flex-wrap: wrap;
-    }
+	.areas {
+		display: flex;
+		flex-wrap: wrap;
+	}
 
-    .areas > p {
-        padding: .25rem;
-        margin: .25rem;
-        background-color: rgb(42, 207, 141);
-    }
+	.areas > p {
+		padding: 0.25rem;
+		margin: 0.25rem;
+		background-color: rgb(42, 207, 141);
+	}
 </style>
