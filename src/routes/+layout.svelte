@@ -3,14 +3,16 @@
 	import { browser } from '$app/environment';
 	import { base } from '$app/paths';
 	import { ff1Bestiary, ff1Chests } from '$store';
-
+	// import img from "$lib/images/ff1/test.jpg"
 	if (browser) {
 		ff1Bestiary.initStorage();
 		ff1Chests.initStorage();
 	}
 </script>
 
+
 <header>
+	<!-- <img src={img} alt=""> -->
 	<p>FFPR Compendium</p>
 	<nav>
 		<ul>
