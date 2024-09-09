@@ -4,15 +4,17 @@
 
 <ul>
 	<li><a href="{base}/ff1/bestiary">Bestiary</a></li>
-	<li><a href="{base}/ff1/chests">Chest Collection Log</a></li>
+	<li><a href="{base}/ff1/chests">Chests</a></li>
+	<li><a href="{base}/ff1/locations">Locations</a></li>
 </ul>
 
 <slot />
 
 <style>
 	ul {
-		padding: 1rem;
+		padding: 1rem 0;
 		display: flex;
+		flex-wrap: wrap;
 		background-color: black;
 		justify-content: space-around;
 		list-style: none;

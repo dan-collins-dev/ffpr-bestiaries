@@ -1,58 +1,38 @@
 <script>
-	let header;
-	let content;
-	let active = false;
-	const handleClick = () => {
-		active = !active;
-	};
+	import InfoDropdown from '$components/InfoDropdown.svelte';
 </script>
 
 <h1>Cornelia</h1>
 <div class="image-container">
-    <img class="town-map" src="https://lh3.googleusercontent.com/d/10vwsLOUlFkDC2HTbtMz6sLpdmcmKNiCV" alt="Map of Cornelia">
+	<img
+		class="overworld"
+		src="https://lh3.googleusercontent.com/d/112Xo92x_bkieQSHszv2zbjf0Mq6CJW6z"
+		alt="Overworld Map of Cornelia"
+	/>
 </div>
-<div class="container">
-    <button bind:this={header} class="header" on:click={handleClick}>
-        <p>Title</p>
-    </button>
-    <div bind:this={content} class="content" class:active>
-        <p>Content</p>
-        <p>Content</p>
-        <p>Content</p>
-    </div>
-</div>
+
+<InfoDropdown
+	type="worldmap"
+	src={'https://lh3.googleusercontent.com/d/10cEdJ9sq6SwxZCwDly70PA_ZUeB-iqH4'}
+	alt={'Cornelia on World Map'}
+/>
+<InfoDropdown
+	type="townmap"
+	src={'https://lh3.googleusercontent.com/d/10vwsLOUlFkDC2HTbtMz6sLpdmcmKNiCV'}
+	alt={'Town Map of Cornelia'}
+/>
 
 <style>
-    h1 {
-        text-align: center;
-    }
-    .container {
-        margin: .5rem;
-    }
-
-    .image-container {
-        margin: .5rem;
-    }
-
-    .town-map {
-        max-width: 100%;
-    }
-	.header {
-		background-color: gray;
-		width: 100%;
-		height: 3rem;
-		border: none;
-        text-align: left;
-        padding-left: 1rem;
-        font-size: larger;
+	h1 {
+		text-align: center;
 	}
 
-	.content {
-		display: none;
-		background-color: rgb(189, 189, 189);
+	.image-container {
+		margin: 0.5rem;
+		display: flex;
 	}
 
-	.active {
-		display: block;
+	.overworld {
+		max-width: 100%;
 	}
 </style>
