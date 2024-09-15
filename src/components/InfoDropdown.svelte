@@ -56,6 +56,7 @@
 	}
 
 	.active {
-		display: block;
+		display: flex;
+		flex-direction: column;
 	}
 </style>

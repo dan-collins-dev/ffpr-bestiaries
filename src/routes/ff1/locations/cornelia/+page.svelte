@@ -22,6 +22,8 @@
 	alt={'Town Map of Cornelia'}
 />
 
+<InfoDropdown type="weaponShop" />
+
 <style>
 	h1 {
 		text-align: center;
@@ -30,9 +32,11 @@
 	.image-container {
 		margin: 0.5rem;
 		display: flex;
+        justify-content: center;
 	}
 
 	.overworld {
-		max-width: 100%;
+        width: 100%;
+		/* max-width: 1026px; */
 	}
 </style>
