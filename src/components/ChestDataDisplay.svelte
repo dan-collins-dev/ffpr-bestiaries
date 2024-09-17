@@ -23,6 +23,7 @@
 <dialog bind:this={dialog} open={opened} on:close={closeCard}>
 	<h1>{data[index].contents}</h1>
 	<img src={data[index].imgSrc} alt="A Picture of Chest with {data[index].contents}" />
+	<img src={data[index].locationImgSrc} alt="A Picture of {data[index].contents} location" />
 	<div class="button-container">
 		<button on:click={closeCard}>Close</button>
 	</div>
