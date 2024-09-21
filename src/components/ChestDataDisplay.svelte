@@ -22,8 +22,10 @@
 
 <dialog bind:this={dialog} open={opened} on:close={closeCard}>
 	<h1>{data[index].contents}</h1>
-	<img src={data[index].imgSrc} alt="A Picture of Chest with {data[index].contents}" />
-	<img src={data[index].locationImgSrc} alt="A Picture of {data[index].contents} location" />
+	<div class="image-container">
+		<img class="chest" src={data[index].imgSrc} alt="A Picture of Chest with {data[index].contents}" />
+		<img class="chest-location" src={data[index].locationImgSrc} alt="A Picture of {data[index].contents} location" />
+	</div>
 	<div class="button-container">
 		<button on:click={closeCard}>Close</button>
 	</div>
@@ -47,6 +49,33 @@
 	}
 
 	img {
+		margin: .25rem 0;
 		max-width: 100%;
+	}
+
+	.chest {
+		margin:  0 0 .25rem 0;
+	}
+
+	.chest-location {
+		margin: .25rem 0 0 0;
+	}
+
+	.image-container {
+		display: flex;
+		flex-direction: column;
+	}
+
+	@media (width > 500px) {
+		.image-container {
+			flex-direction: row;
+			max-width: 100%;
+			width: 100%;
+		}
+
+		img {
+			margin: 0 .25rem;
+			width: 50%;
+		}
 	}
 </style>
